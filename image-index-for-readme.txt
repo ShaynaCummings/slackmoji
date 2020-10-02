@@ -26,17 +26,19 @@
 <img src="can-you-not.png" alt="can-you-not" width="30"/> 
 <img src="canada-eh.jpg" alt="canada-eh" width="30"/> 
 <img src="carlton.gif" alt="carlton" width="30"/> 
+<img src="cat-omg.gif" alt="" width="30" /> 
 <img src="cat-typing.gif" alt="cat-typing" width="30"/> 
 <img src="challenge-accepted.png" alt="challenge-accepted" width="30"/> 
 <img src="chrissy-teigen-yikes.gif" alt="chrissy-teigen-yikes" width="30"/> 
 <img src="clap-all.gif" alt="clap-all" width="30"/> 
 <img src="clippy.gif" alt="clippy" width="30"/> 
-<img src="confused-travolta.gif" alt="confused-travolta" width="30"/> 
 <img src="confused_dog.gif" alt="confused_dog" width="30"/> 
+<img src="confused-travolta.gif" alt="confused-travolta" width="30"/> 
 <img src="cool-cat.png" alt="cool-cat" width="30"/> 
 <img src="cool-doge.gif" alt="cool-doge" width="30"/> 
 <img src="corgi-twins.png" alt="corgi-twins" width="30"/> 
 <img src="corgis-running.gif" alt="corgis-running" width="30"/> 
+<img src="cozy-party.gif" alt="" width="30" /> 
 <img src="crazy-cat-lady.jpg" alt="crazy-cat-lady" width="30"/> 
 <img src="crying-kim.jpg" alt="crying-kim" width="30"/> 
 <img src="cryz.png" alt="cryz" width="30"/> 
@@ -56,6 +58,7 @@
 <img src="elmo-fire.gif" alt="elmo-fire" width="30"/> 
 <img src="face-palm.png" alt="face-palm" width="30"/> 
 <img src="fist-shake.gif" alt="fist-shake" width="30"/> 
+<img src="fixed.png" alt="" width="30" /> 
 <img src="fomo.jpg" alt="fomo" width="30"/> 
 <img src="friday-rebecca-black.png" alt="friday-rebecca-black" width="30"/> 
 <img src="get-well-soon.jpg" alt="get-well-soon" width="30"/> 
@@ -71,11 +74,15 @@
 <img src="keytar-bear.png" alt="keytar-bear" width="30"/> 
 <img src="leo-toast.gif" alt="leo-toast" width="30"/> 
 <img src="llama.gif" alt="llama" width="30"/> 
+<img src="lolsob.png" alt="" width="30" /> 
 <img src="mask-parrot.gif" alt="mask-parrot" width="30"/> 
+<img src="massachusetts.png" alt="" width="30" /> 
 <img src="meh.png" alt="meh" width="30"/> 
+<img src="meow-nerd.png" alt="" width="30" /> 
 <img src="michael-scott-no.png" alt="michael-scott-no" width="30"/> 
 <img src="michelle.png" alt="michelle" width="30"/> 
 <img src="mild-panic.jpg" alt="mild-panic" width="30"/> 
+<img src="mood.png" alt="" width="30" /> 
 <img src="no.png" alt="no" width="30"/> 
 <img src="nom.gif" alt="nom" width="30"/> 
 <img src="nope.png" alt="nope" width="30"/> 
@@ -95,8 +102,10 @@
 <img src="party-wfh.gif" alt="party-wfh" width="30"/> 
 <img src="plus-plus.png" alt="plus-plus" width="30"/> 
 <img src="polar-seltzer.jpg" alt="polar-seltzer" width="30"/> 
-<img src="polar.jpg" alt="polar" width="30"/> 
 <img src="poutine.png" alt="poutine" width="30"/> 
+<img src="pronoun-he.png" alt="" width="30" /> 
+<img src="pronoun-she.png" alt="" width="30" /> 
+<img src="pronoun-they.png" alt="" width="30" /> 
 <img src="queen-rbg.png" alt="queen-rbg" width="30"/> 
 <img src="rad.png" alt="rad" width="30"/> 
 <img src="rocker-cat.gif" alt="rocker-cat" width="30"/> 
@@ -126,6 +135,7 @@
 <img src="truth.png" alt="truth" width="30"/> 
 <img src="try-not-to-cry.gif" alt="try-not-to-cry" width="30"/> 
 <img src="typing.gif" alt="typing" width="30"/> 
+<img src="valid.png" alt="" width="30" /> 
 <img src="vote.jpg" alt="vote" width="30"/> 
 <img src="wat.gif" alt="wat" width="30"/> 
 <img src="welcome-back.png" alt="welcome-back" width="30"/> 
@@ -148,5 +158,6 @@
 <img src="yo-dawg.png" alt="yo-dawg" width="30"/> 
 <img src="you-got-it-dude.gif" alt="you-got-it-dude" width="30"/> 
 <img src="youve-got-to-be-kidding.png" alt="youve-got-to-be-kidding" width="30"/> 
+<img src="yuck.png" alt="" width="30" /> 
 <img src="yup.png" alt="yup" width="30"/> 
 <img src="zoom.jpg" alt="zoom" width="30"/> 
